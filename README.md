@@ -68,4 +68,4 @@ Operations optimizing inventory by outlet type or size
 Executives making data-driven decisions for growth and expansion
 
 Screenshot/Demo :
-![Blinkit Dashboard Screenshot](blinkit_dashboard.png)
+![Blinkit Dashboard Screenshot](https://github.com/sumitchatt10/Blinkit_Dashboard/blob/main/blinkit%20dashboard.png)
