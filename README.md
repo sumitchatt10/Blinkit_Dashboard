@@ -69,4 +69,4 @@ Executives making data-driven decisions for growth and expansion
 
 Screenshot/Demo :
 Show what the dashboard looks like - ![Alt text].(https://github.com/sumitchatt10/Blinkit_Dashboard/blob/132bba4729078a12b77efde902cff3a952d90876/blinkit%20dashboard.png)
-Example : ![].(https://github.com/sumitchatt10/Blinkit_Dashboard/blob/132bba4729078a12b77efde902cff3a952d90876/blinkit%20dashboard.png)
+Example : ![blinkit dashboard.png].(https://github.com/sumitchatt10/Blinkit_Dashboard/blob/132bba4729078a12b77efde902cff3a952d90876/blinkit%20dashboard.png)
