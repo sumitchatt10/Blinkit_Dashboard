@@ -2,7 +2,7 @@
 Blinkit Sales Analytics Dashboard
 
 Overview -
-This Power BI dashboard provides a comprehensive overview of Blinkit, India's Last Minute App, with a focus on outlet sales performance, product trends, outlet locations, and customer ratings. It is designed to help stakeholders quickly analyze key metrics, optimize decision-making, and identify performance drivers across various outlet types and sizes.
+This Power BI dashboard provides a comprehensive overview of "Blinkit, India's Last Minute App", with a focus on outlet sales performance, product trends, outlet locations, and customer ratings. It is designed to help stakeholders quickly analyze key metrics, optimize decision-making, and identify performance drivers across various outlet types and sizes.
 
 Key Metrics:-
 Total Sales: $1.20M
