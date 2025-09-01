@@ -67,4 +67,5 @@ Marketing teams evaluating product category success
 Operations optimizing inventory by outlet type or size
 Executives making data-driven decisions for growth and expansion
 
-
+Screenshot/Demo :
+Show what the dashboard looks like - ![Alt text].()
